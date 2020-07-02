@@ -50,7 +50,25 @@ namespace NotebookApp
                         ShowInstruction();
                         break;
                     case "exit":
-                        Console.WriteLine("Приятно было поработать! До встречи!");
+                        bool b;
+                        do
+                        {
+                            b = true;
+                            Console.WriteLine("Вы уверены, что хотите выйти? Все записи будут удалены! (y/n)");
+                            switch (Console.ReadLine())
+                            {
+                                case "y":
+                                    Console.WriteLine("Приятно было поработать! До встречи!");
+                                    break;
+                                case "n":
+                                    ShowInstruction();
+                                    break;
+                                default:
+                                    Console.WriteLine("Я вас не понял!");
+                                    b = false;
+                                    break;
+                            }
+                        } while (!b);
                         break;
                     default:
                         Console.WriteLine("Я вас не понял! Давай попробуем ещё раз!");
