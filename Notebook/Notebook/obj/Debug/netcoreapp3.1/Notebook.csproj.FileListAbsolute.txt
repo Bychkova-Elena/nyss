@@ -1,0 +1,13 @@
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\bin\Debug\netcoreapp3.1\Notebook.exe
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\bin\Debug\netcoreapp3.1\Notebook.deps.json
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\bin\Debug\netcoreapp3.1\Notebook.runtimeconfig.json
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\bin\Debug\netcoreapp3.1\Notebook.runtimeconfig.dev.json
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\bin\Debug\netcoreapp3.1\Notebook.dll
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\bin\Debug\netcoreapp3.1\Notebook.pdb
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.csprojAssemblyReference.cache
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.AssemblyInfoInputs.cache
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.AssemblyInfo.cs
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.dll
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.pdb
+C:\Users\pc\C#Projects\nyss\Notebook\Notebook\obj\Debug\netcoreapp3.1\Notebook.genruntimeconfig.cache
